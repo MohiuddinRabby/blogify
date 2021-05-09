@@ -45,3 +45,12 @@ Physical distractions are distractions from your environment, like a TV in the b
 People often compare themselves to others who are around them or have more experience than them. This is a recipe for depression and frustration.
 
 **Solution** - Only compare yourself to your past self. Have your abilities and knowledge improved from where you were last week, last month, or last year? Be proud of the progress that you’ve made!
+##### Not Taking Breaks
+
+As you get into the material, you may feel compelled to study for long periods continuously. It might seem like you are getting more work done at first, but this often leads to burnout, resulting in lower productivity.
+
+It may seem counterintuitive, but you will get more done if you regularly step back to recharge your mind and body. Researches show that production rises after breaks of all durations: from extended holidays down to microbreaks of 30 seconds. 
+
+**John Trougakos, Associate Professor of Management at the University of Toronto, says that mental strength is similar to a muscle. Our focus becomes fatigued after sustained use and needs a rest period to recover, just like a bodybuilder resting between sets at the gym**.
+
+**Solution** - Use the previously mentioned Pomodoro Technique to time how often and how long to take your well-deserved breaks. Feel free to play around and try with different rhythms and durations of leaves.
