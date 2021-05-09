@@ -1,6 +1,6 @@
 ---
 author: Golam Mohiuddin
-title: Growth Mindset
+title: Growth Mindset - the new psychology of success
 date: 2021-05-08
 description: Our mindset is essential when teaching ourselves new skills. Our perspective will have more of an impact on our chances of success than just about anything else.
 tags:
@@ -11,6 +11,7 @@ tags:
 <br/>
 <img src="/static/img/GrowthMindset.png" alt="growth-mindset" raw=true>
 <br/><br/>
+
 Our mindset is essential when teaching ourselves new skills. Our perspective will have more of an impact on our chances of success than just about anything else.
 
 Someone with the fixed mindset believes if they don’t get something on their first attempt, they never will. Also, consider that they aren’t smart enough to be able to do or understand some things.
