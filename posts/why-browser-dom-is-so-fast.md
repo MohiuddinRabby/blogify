@@ -36,7 +36,7 @@ Also, **CSS** styles come along with **HTML** file goes to the **CSS** rendering
 
 Browser parse the **CSS** & makes another model like **DOM** that called **CSSOM (CSS object model)**.
 
-Then browser combines both **CSS** and **HTML** parser and makes a render tree. Render tree goes under a phase called ** Layout**.
+Then browser combines both **CSS** and **HTML** parser and makes a render tree. Render tree goes under a phase called **Layout**.
 
 **In the Layout phase, every renders tree coordinated gets calculated & attach with elements so that browser can track the changes & can print them**.
 

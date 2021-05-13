@@ -1,6 +1,6 @@
 module.exports = {
   meta: {
-    title: "Blogify-Mohiuddin",
+    title: "Blogify",
     description: "",
     lang: "en",
     siteUrl: "https://example.com/",
