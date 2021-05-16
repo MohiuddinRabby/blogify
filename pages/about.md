@@ -8,7 +8,7 @@ eleventyNavigation:
   weight: 2
 ---
 
-## Hello.
+## Hello
 
 #### My name is Golam Mohiuddin
 
