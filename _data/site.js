@@ -1,6 +1,6 @@
 module.exports = {
   meta: {
-    title: "Blogify",
+    title: "Bloogify",
     description: "",
     lang: "en",
     siteUrl: "https://example.com/",
@@ -16,7 +16,7 @@ module.exports = {
   },
   hero: {
     // used in hero section of main page ie. index.html.njk
-    title: "Welcome to Blogify",
+    title: "Welcome to Bloogify",
     description: "",
   },
 };
