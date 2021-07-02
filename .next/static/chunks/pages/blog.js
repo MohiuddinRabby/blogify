@@ -15,7 +15,7 @@
 /***/ (function(module) {
 
 "use strict";
-module.exports = JSON.parse('{"title":"Bloogify","author":"Golam Mohiuddin","headerTitle":"Bloogify","description":"","language":"en-us","siteUrl":"https://tailwind-nextjs-starter-blog.vercel.app","siteRepo":"https://github.com/timlrx/tailwind-nextjs-starter-blog","image":"/static/images/avatar.png","socialBanner":"/static/images/twitter-card.png","email":"address@yoursite.com","github":"https://github.com","twitter":"https://twitter.com/Twitter","facebook":"https://facebook.com","youtube":"https://youtube.com","linkedin":"https://www.linkedin.com","locale":"en-US"}');
+module.exports = JSON.parse('{"title":"Bloogify","author":"Golam Mohiuddin","headerTitle":"Bloogify","description":"","language":"en-us","siteUrl":"https://bloogify.tech/","siteRepo":"https://github.com/MohiuddinRabby/blogify","image":"/static/images/avatar.png","socialBanner":"/static/images/twitter-card.png","email":"rabby.mohiuddin@gmail.com","github":"https://github.com/MohiuddinRabby","twitter":"https://twitter.com/Twitter","facebook":"https://facebook.com","youtube":"https://youtube.com","linkedin":"https://www.linkedin.com/in/mohiuddin-rabby-b49797123/","locale":"en-US"}');
 
 /***/ }),
 
