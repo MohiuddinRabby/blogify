@@ -2,18 +2,28 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Bloogify</title>
-      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <link>https://bloogify.tech//blog</link>
       <description></description>
       <language>en-us</language>
       <managingEditor>rabby.mohiuddin@gmail.com (Golam Mohiuddin)</managingEditor>
       <webMaster>rabby.mohiuddin@gmail.com (Golam Mohiuddin)</webMaster>
-      <lastBuildDate>Thu, 13 May 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/tech/index.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 17 Jul 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://bloogify.tech//tags/tech/index.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/top-reasons-to-use-canva</guid>
+    <guid>https://bloogify.tech//blog/data-analytics-in-organization</guid>
+    <title>Think big, start small - Anylitics in organization</title>
+    <link>https://bloogify.tech//blog/data-analytics-in-organization</link>
+    <description>Now more and more industries are using drones in their way to lessen their hassle. Drones provide images from an aerial view.</description>
+    <pubDate>Sat, 17 Jul 2021 00:00:00 GMT</pubDate>
+    <author>rabby.mohiuddin@gmail.com (Golam Mohiuddin)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://bloogify.tech//blog/top-reasons-to-use-canva</guid>
     <title>Top reasons to use Canva and grow your Business</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/top-reasons-to-use-canva</link>
+    <link>https://bloogify.tech//blog/top-reasons-to-use-canva</link>
     <description>When your business enters the web-based media domain, you need the engagement of your targeted audience Creating simple and boring graphics won’t make much effect on your business, that’s for sure.</description>
     <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
     <author>rabby.mohiuddin@gmail.com (Golam Mohiuddin)</author>
@@ -21,9 +31,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/why-browser-dom-is-so-fast</guid>
+    <guid>https://bloogify.tech//blog/why-browser-dom-is-so-fast</guid>
     <title>Browser DOM is faster than Virtual DOM!!</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/why-browser-dom-is-so-fast</link>
+    <link>https://bloogify.tech//blog/why-browser-dom-is-so-fast</link>
     <description>Coding efficiency makes the DOM slower or faster. The DOM performance depends on how less you use the DOM..Regular browser dom is as fast as virtual dom</description>
     <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
     <author>rabby.mohiuddin@gmail.com (Golam Mohiuddin)</author>
